@@ -22,3 +22,6 @@ Spotify.
 Нет.
 ### Сколько времени затрачено?
 Примерно 2 часа. На изучение api Spotify и создания скрипта.
+
+## Пример работы:
+![Image alt](https://user-images.githubusercontent.com/62353645/156825511-38325c97-7970-4ad4-a1c4-008778e5f8db.png)
